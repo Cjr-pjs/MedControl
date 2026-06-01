@@ -1,0 +1,10 @@
+========================================
+   LISTA DE MEDICAMENTOS CADASTRADOS
+========================================
+
+Medicamento 1:
+  Nome      : Scaflogin
+  Quantidade: 3
+  Dias      : Segunda
+  Horarios  : 03:30
+----------------------------------------
